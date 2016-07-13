@@ -3,6 +3,6 @@ Feedo App here is for posting liking and put comment on those feeds. user can up
 
 Below are the steps for checking it.
 1) First one is to run the application we need to have one of server application it could be google crome server or any other.
-2) Second efault data will loaded from json and will be added to localstorage.
+2) Second default data will loaded from json and will be added to localstorage.
 3) For creating post user can post image or text both at same time but one of them need to be added else it will throw error.
 4) For liking and comment we have added two buttons for like and comment which we can perform both of the action.
